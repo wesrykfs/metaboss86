@@ -1,0 +1,43 @@
+{
+  "name": "Haunt #666",
+  "symbol": "Haunts",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeid5a3i5ciw6qkf4wed3l5re3emu6x3yjqss5ulvo7kyql37c2t3wy/666.jpeg",
+  "attributes": [
+  {
+      "trait_type": "Background",
+      "value": "Pixil-frame-0 - 2022-10-09T032724"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black White"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Blank"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Crown 1"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Blank - Kopia"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 254,
+      "display_type": "number",
+      "max_value": 888
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
